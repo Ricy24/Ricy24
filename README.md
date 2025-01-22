@@ -52,7 +52,7 @@
 ## 🚀 Proyectos Destacados
 
 ### 📊 Sistema de Contabilidad para Restaurantes
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](TU_LINK_PROYECTO_1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ricy24/Contabilidad)
 - Desarrollado con Django y Python
 - Análisis de datos de ventas y tendencias
 - Sistema de generación automática de facturas
