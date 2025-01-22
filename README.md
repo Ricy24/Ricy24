@@ -10,11 +10,6 @@
 
 ¡Soy un desarrollador Full Stack apasionado por la tecnología y la innovación! Mi objetivo es combinar el desarrollo de software con la ciencia de datos y la inteligencia artificial para crear soluciones que generen impacto real.
 
-<img align="right" alt="Full Stack, AI & Data Science" width="400" src="https://media.giphy.com/media/xT9IuFjfuvvGPAa6gE/giphy.gif">
-
-
-
-
 
 
 
@@ -93,7 +88,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricy24&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center">
-Show Image
 </div>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> ¡Conectemos!
