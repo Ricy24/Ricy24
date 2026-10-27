@@ -51,6 +51,11 @@ Actualmente estoy enfocado en construir sistemas con:
 
 El proyecto busca utilizar la tecnología como herramienta de apoyo para comprender mejor las necesidades de los usuarios y facilitar el trabajo de los profesionales.
 
+### Componentes
+
+* ⚙️ **Backend (Django REST)** — [`backend`](https://github.com/Ricy24/backend)
+* 🌐 **Frontend (React)** — [`frontendsenti`](https://github.com/Ricy24/frontendsenti)
+
 ### Algunas capacidades
 
 * 🤖 Asistencia basada en IA
@@ -76,6 +81,8 @@ El proyecto busca utilizar la tecnología como herramienta de apoyo para compren
 **LifeOS** es una plataforma de gestión financiera personal que estoy desarrollando para explorar problemas de **finanzas, predicción, simulación y optimización**.
 
 El proyecto está diseñado alrededor de una arquitectura **offline-first**, con un motor financiero determinístico y sincronización con backend.
+
+📦 **Repositorio:** [`lifeos`](https://github.com/Ricy24/lifeos)
 
 ### Componentes principales
 
@@ -171,10 +178,11 @@ El proyecto está diseñado alrededor de una arquitectura **offline-first**, con
 
 | Proyecto                              | Descripción                                                                                                   | Tecnologías                  |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| 🍓 **Fruit Fest**                     | E-commerce agrícola con inventario, recomendaciones y analítica. Proyecto reconocido en concurso SENA Bogotá. | Laravel · PHP · MySQL        |
-| 🍕 **Compostella**                    | Sistema de pedidos con seguimiento y panel de cocina.                                                         | PHP · JavaScript · MySQL     |
-| 🏨 **Hotel**                          | Sistema de reservas, disponibilidad y administración.                                                         | PHP · MySQL                  |
-| 🧾 **Contabilidad para Restaurantes** | Gestión, dashboard, facturación y análisis de ventas.                                                         | Django · Python · PostgreSQL |
+| [🍓 **Fruit Fest**](https://github.com/Ricy24/fruit-fest)                     | E-commerce agrícola con inventario, recomendaciones y analítica. Proyecto reconocido en concurso SENA Bogotá. | PHP · MySQL · Google OAuth        |
+| [🍕 **Compostella**](https://github.com/Ricy24/compostella)                    | Sistema de pedidos con seguimiento y panel de cocina.                                                         | PHP · JavaScript · MySQL     |
+| [🏨 **Hotel**](https://github.com/Ricy24/hotel)                          | Sistema de reservas, disponibilidad y administración.                                                         | PHP · MySQL                  |
+| [👁️ **VigilIA**](https://github.com/Ricy24/VigilIA) | Visión artificial con YOLO para detección de EPP y seguridad industrial (SST). |
+| [🧾 **Contabilidad para Restaurantes**](https://github.com/Ricy24/Contabilidad) | Gestión, dashboard, facturación y análisis de ventas.                                                         | Django · Python · PostgreSQL |
 
 ---
 
