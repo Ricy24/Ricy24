@@ -96,6 +96,30 @@ El proyecto está diseñado alrededor de una arquitectura **offline-first**, con
 
 ---
 
+# 🚰 PlomApp
+
+**PlomApp** es una plataforma de gestión de servicios de plomería que conecta **clientes con técnicos**, compuesta por app móvil, frontend web y API.
+
+### Componentes
+
+* 📱 **App Android** — [`android_plomaap`](https://github.com/Ricy24/android_plomaap) · Kotlin
+* 🌐 **Frontend web** — [`plomaap_react_estable`](https://github.com/Ricy24/plomaap_react_estable) · React 19 + Vite
+* ⚙️ **API** — [`plomaap_django`](https://github.com/Ricy24/plomaap_django) · Django + JWT
+* 🗄️ **Versión web completa** — [`plomaap_codigo`](https://github.com/Ricy24/plomaap_codigo)
+
+### Capacidades
+
+* 👤 Registro, login y roles (cliente / técnico / administrador)
+* 📋 Solicitud, asignación y seguimiento de servicios
+* 🧑‍🔧 Paneles para técnico y administrador
+* 📡 API REST documentada con **Swagger**
+
+### Stack
+
+`Kotlin` · `Android` · `React` · `Django` · `PostgreSQL` · `Flask` · `Docker`
+
+---
+
 # 🛠️ Stack tecnológico
 
 ### Lenguajes
