@@ -45,6 +45,29 @@ Actualmente estoy enfocado en construir sistemas con:
 
 # 🧠 Proyecto principal
 
+## 👁️ VigilIA — visión artificial para seguridad industrial
+
+**VigilIA** convierte cámaras de videovigilancia convencionales en **sensores inteligentes de Seguridad y Salud en el Trabajo**: detecta ausencia de EPP, invasión de zonas de exclusión, caídas y comportamientos anómalos, y emite alertas accionables con registro trazable de cada evento.
+
+Pipeline de visión en tiempo real sobre **YOLO11 + ByteTrack + OpenCV**, motor de reglas de negocio, API en **FastAPI**, alertas por **WebSocket** y dashboard en **React**. Desplegable con **Docker**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO11](https://img.shields.io/badge/Ultralytics-YOLO11-111F68?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+* 🎯 **Detección y seguimiento** multi-persona en tiempo real
+* 🦺 **Reglas SST**: EPP, zonas de exclusión, caídas
+* 🚨 **Alertas en vivo** y trazabilidad de eventos
+* 🏗️ **Arquitectura por fases** documentada: SAD, roadmap y decisiones técnicas
+
+📦 **Repositorio:** [**Ricy24/VigilIA**](https://github.com/Ricy24/VigilIA)
+
+> El pipeline es independiente de la fuente de video: nace sobre CCTV y es adaptable a **video aéreo (drones)** con estabilización y modelos de perspectiva aérea.
+
+---
+
 ## 🩵 Senti
 
 **Senti** es una plataforma de bienestar emocional que combina **Inteligencia Artificial y profesionales de la psicología**.
@@ -181,7 +204,6 @@ El proyecto está diseñado alrededor de una arquitectura **offline-first**, con
 | [🍓 **Fruit Fest**](https://github.com/Ricy24/fruit-fest)                     | E-commerce agrícola con inventario, recomendaciones y analítica. Proyecto reconocido en concurso SENA Bogotá. | PHP · MySQL · Google OAuth        |
 | [🍕 **Compostella**](https://github.com/Ricy24/compostella)                    | Sistema de pedidos con seguimiento y panel de cocina.                                                         | PHP · JavaScript · MySQL     |
 | [🏨 **Hotel**](https://github.com/Ricy24/hotel)                          | Sistema de reservas, disponibilidad y administración.                                                         | PHP · MySQL                  |
-| [👁️ **VigilIA**](https://github.com/Ricy24/VigilIA) | Visión artificial con YOLO para detección de EPP y seguridad industrial (SST). |
 | [🧾 **Contabilidad para Restaurantes**](https://github.com/Ricy24/Contabilidad) | Gestión, dashboard, facturación y análisis de ventas.                                                         | Django · Python · PostgreSQL |
 
 ---
