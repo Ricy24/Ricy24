@@ -215,6 +215,10 @@ El proyecto está diseñado alrededor de una arquitectura **offline-first**, con
 
 ### Certificaciones / cursos
 
+* Databricks Fundamentals Accreditation — Databricks Academy (2026)
+* Databricks AI Agent Fundamentals Accreditation — Databricks Academy (2026)
+* Databricks Generative AI Fundamentals Accreditation — Databricks Academy (2026)
+* Getting Started with Cybersecurity — IBM SkillsBuild / Credly (2026)
 * Java Orientado a Objetos — SENA
 * Python para Ciencia de Datos — Platzi
 * Python — Platzi
